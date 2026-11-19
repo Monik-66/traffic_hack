@@ -30,7 +30,7 @@ function expect(actual) {
 console.log('\nRunning tests...\n');
 
 test('add(2, 3) should return 5', () => {
-  expect(add(2, 3)).toBe(99); // intentionally broken
+  expect(add(2, 3)).toBe(5);
 });
 
 test('add(0, 0) should return 0', () => {
