@@ -1,0 +1,13 @@
+{
+  "name": "traffic-hack",
+  "version": "1.0.0",
+  "description": "Traffic Hack Node.js App with CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
